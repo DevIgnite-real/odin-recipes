@@ -3,12 +3,16 @@ html, body {
   color: #f8f9fa;
 }
 
+#title {
+  font-size: 36px;
+}
+
 a {
   color: #f8f9fa;
 }
 
 a:visited {
-  color: #00b4d8;
+  color: lightcoral;
 }
 
 img {
